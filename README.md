@@ -1,7 +1,11 @@
 # Hello-World
-Just using this as a tutorial to make sure everything works as it should.
+Howdy there!
 
-Let's try something else.
+This is a test repository for testing various features of Git and Github.
 
-To make sure everything is working, I erased part of the previous change
-Let's see if pull requests are required.... They'll probably only be necessary for group projects...
+To test, fork this repository, add a new branch, add a file using Git, and submit a pull request to this repository.
+Then, set up the upstream and pull a change that I make from this repository using Git.
+
+If I can see your new branch, accept the pull request, and see that you obtained my changes, you pass!
+
+-Omar
